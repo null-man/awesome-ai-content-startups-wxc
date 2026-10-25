@@ -44,6 +44,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Luma Labs](https://lumalabs.ai/)** – 3D video capture and editing powered by AI. `Freemium` `Proprietary`
 - **[Pictory AI](https://pictory.ai/)** – Automatic video creation from text or long-form content. `Paid` `Proprietary`
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
+- **[GrokVideo Studio](https://grokvideogenerator.dev/)** – Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits. `Freemium` `Proprietary`
 - **[Sora by OpenAI](https://www.sora.com/)** – AI-powered video creation by the creators of ChatGPT. `Unreleased` `Proprietary`
 - **[Synthesia](https://www.synthesia.io/)** – Create AI videos with virtual presenters and voices. `Paid` `Proprietary`
 
@@ -51,6 +52,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Black Forest Labs](https://blackforestlabs.ai/)** – AI-powered image generation for creators. `Paid` `Proprietary`
 - **[DALL·E](https://openai.com/dall-e)** – Generative image AI by OpenAI. `Paid` `Proprietary`
 - **[Leonardo.ai](https://leonardo.ai/)** – AI image generation for gaming and creative professionals. `Freemium` `Proprietary`
+- **[PromptImage](https://promptimage.cloud/)** – Free AI image & video studio with a prompt library; signup credits, no card required. `Freemium` `Proprietary`
 - **[Midjourney](https://www.midjourney.com/)** – AI art generation through Discord. `Paid` `Proprietary`
 - **[Scenario](https://www.scenario.com/)** – AI-powered game asset generation platform. `Paid` `Proprietary`
 - **[Stability AI](https://stability.ai/)** – Creators of Stable Diffusion for image generation. `Free/Paid` `Open Source`
