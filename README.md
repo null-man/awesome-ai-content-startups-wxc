@@ -45,6 +45,9 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Pictory AI](https://pictory.ai/)** – Automatic video creation from text or long-form content. `Paid` `Proprietary`
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
 - **[GrokVideo Studio](https://grokvideogenerator.dev/)** – Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits. `Freemium` `Proprietary`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 - **[Sora by OpenAI](https://www.sora.com/)** – AI-powered video creation by the creators of ChatGPT. `Unreleased` `Proprietary`
 - **[Synthesia](https://www.synthesia.io/)** – Create AI videos with virtual presenters and voices. `Paid` `Proprietary`
 
